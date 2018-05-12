@@ -1,4 +1,8 @@
 _repo: Chats-on-Military-Curios_48366
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48366-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Johnson, Stanley C. (Stanley Currie)
@@ -9,6 +13,8 @@ creator:
     gutenberg_agent_id: '44756'
     url: http://www.gutenberg.org/2009/agents/44756
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48366#Chats-on-Military-Curios
 gutenberg_issued: '2015-02-26'
 gutenberg_type: Text
 identifiers:
