@@ -23,5 +23,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Chats on Military Curios
 url: http://www.gutenberg.org/ebooks/48366
